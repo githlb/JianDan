@@ -77,7 +77,8 @@
                 android:singleLine="true"
                 android:text="浏览120次"
                 android:textColor="@color/secondary_text_default_material_light"
-                android:textSize="14sp" />
+                android:textSize="14sp"
+                android:visibility="gone" />
 
             <TextView
                 android:id="@+id/tv_share"

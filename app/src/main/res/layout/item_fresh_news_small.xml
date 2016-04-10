@@ -51,6 +51,7 @@
             android:layout_toRightOf="@id/tv_info"
             android:singleLine="true"
             android:text="浏览120次"
+            android:visibility="gone"
             android:textColor="@color/secondary_text_default_material_light"
             android:textSize="14sp"/>
     </RelativeLayout>
